@@ -19,7 +19,7 @@ Also in the menu from the stacked cylinder is a feature called “Cohorts.” If
 1. Click “Reports” in the upper left corner, then “Insights”
     * You have now instantiated a new Insight Report
 
-![Create report](/MixPanel_tutorial/assets/img/mixpanel_create_report.png)
+![Create report](/assets/img/mixpanel_create_report.png)
 
 2. Click “Select Event” on the left side of the report builder page
 3. Search for and choose an event that you want to track
@@ -30,7 +30,7 @@ Also in the menu from the stacked cylinder is a feature called “Cohorts.” If
        * Some metrics shown are categories. Click the dropdown button (down arrow) next to the metric group name to see more specific metrics that fall under these categories.
     1. Click the meatball menu (three dots) next to the event name to toggle for first-time events or add other filters specific to just this event
     
-    ![Add a metric](/MixPanel_tutorial/assets/img/mixpanel_add_metric.png)
+    ![Add a metric](/assets/img/mixpanel_add_metric.png)
     
     * In this example, I am interested in seeing  the average camera plays per user.
 5. Add additional events by clicking the + button to the right of Metrics
@@ -39,19 +39,19 @@ Also in the menu from the stacked cylinder is a feature called “Cohorts.” If
     1. Click the + button to the right of “Filter”
     1. Search for and select the relevant filter
     
-    ![Add filter](/MixPanel_tutorial/assets/img/mixpanel_filter.png)
+    ![Add filter](/assets/img/mixpanel_filter.png)
     
     * Continuing the previous example, I am only looking for mobile app events. Thus, adding a filter onto "App" will alow me to do so. Once I click on "App" in this example, I will be given a list of app types in which I will select "Android" and "iOS."
 7. Add a breakdown
     1. Click the + button to the right of “Breakdown”
     1. Search for and select the characteristic you want to group by
     
-    ![Add breakdown](/MixPanel_tutorial/assets/img/mixpanel_breakdown.png)
+    ![Add breakdown](/assets/img/mixpanel_breakdown.png)
     
     * To compare the two different app types I already filtered for, I could add "App" to the breakdowns. This will make two separately colored elements in the same visual.
 8. Adjust the time frame by selecting the desired range in the bar above the graph
 
-![Set time range](/MixPanel_tutorial/assets/img/mixpanel_time_range.png)
+![Set time range](/assets/img/mixpanel_time_range.png)
 
 * Here, I am about to set my time range from 30 days to 6 months.
 9. Select the graph type by clicking “Line” in the top right and choosing the view you want
@@ -72,7 +72,7 @@ After you have created your Insight report, you can share and set alerts.
     4. Name the alert at the top of the window
     5. Click “Create Alert” at the bottom of the window
     
-    ![Set alert](/MixPanel_tutorial/assets/img/mixpanel_share_alert.png)
+    ![Set alert](/assets/img/mixpanel_share_alert.png)
     
     * (Please note the chain link icon where I could copy the link to this visual if I wanted to.)
 
